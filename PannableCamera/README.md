@@ -5,6 +5,7 @@ Script(s) for a pannable and zoomable Camera2D
 
 Here I have two versions, the first having pre-defined controls (this makes it easier to drop it into a Camera2D's script and having something functional off the bat) and the second having inputs taken from the Input Map, leaving you to add corresponding inputs manually.
 
+
 Files
 ------
 
